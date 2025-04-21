@@ -35,4 +35,4 @@ This repo showcases how to exploit a buffer overflow bug in C code
 - and bingo, you enter debug mode but the program exits.
 - the solution to that is keeping our file descriptor open, which we can achieve with using cat.
 - ![image](https://github.com/user-attachments/assets/135fdb78-063f-45c6-9007-2c3d15c32209)
-- we bypassed user authentication, which highlights how dangerous are buffer overflow bugs.
+- we bypassed user authentication, which highlights how dangerous buffer overflow bugs are.
