@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/745fbc2f-cf89-42e1-861b-40e664b18add)# buffer-overflow-C
+# buffer-overflow-C
 This repo showcases how to exploit a buffer overflow bug in C code
 
 
